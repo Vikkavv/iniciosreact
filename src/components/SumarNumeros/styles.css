@@ -1,0 +1,15 @@
+p,h1{
+    color: lightgreen; 
+}
+
+:root{
+    background-color: #222;
+}
+
+.red{
+    color: lightcoral;
+}
+
+.yellow{
+    color: lightyellow;
+}
